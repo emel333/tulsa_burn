@@ -2,7 +2,7 @@
 --
 Analyzing the impacts of token burning events on cryptocurrencies, and juxtaposing this with the burning of the black community Greenwood in Tulsa, Oklahoma and the impact of this burning event.
 
-![alt text](### "Greenwood Residents From Tulsa, Oklahoma in front of a Holding Camp: Just After 1921 Destruction of Greenwood")
+![alt text](https://github.com/emel333/tulsa_burn/blob/main/visuals/tulsa-greenwood-1-loc.jpeg "Tulsa's Greenwood Community aks Black Wall Street In 1921: White Mob Burning Event")
 
 ## Process, Tools & Data Used
 <ul>
