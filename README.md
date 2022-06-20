@@ -33,3 +33,8 @@ This analysis involves comparing the burning mechanism implemented in crypto, an
 This visual shows price data for USDT-USD. We can see the price activity around when burning events were implemented, to reveal a network, currency or group's potential motivation; the goal to stabilize token value, or increase token value.
 
 ![alt text](https://github.com/emel333/tulsa_burn/blob/main/visuals/ts_usdt.png "USDT-USD Time Series: 2018-2022")
+
+## BTC and ETH Time Series (same period)
+This visual shows Bitcoin and Ethereum time series market data during the same time period, August 2021. Comparing these two coins shows the relationship that exists between Bitcoin and Ethereum price movement, which shows there could be more influence on price movement beyond the token burning mechanism being implemented.
+
+![alt text](https://github.com/emel333/tulsa_burn/blob/main/visuals/btc-eth-compare.28.23%20PM.png "BTC and ETH Timeseries (same time period)")
